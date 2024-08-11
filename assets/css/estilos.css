@@ -1,0 +1,39 @@
+
+*, p, h1, h2, h3, span, li{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.div-card-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card-img{
+    min-height: 50px;
+    max-height: 80px;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    
+}
+.row-portafolio{
+    margin: 20px;
+}
+
+
+.img-portafolio{
+    max-width: 100%;
+
+}
+
+.card-img-portafolio{
+    padding: 10px;
+}
+
+footer{
+    background-color: rgb(204, 204, 204);
+}
